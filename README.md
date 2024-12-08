@@ -17,6 +17,7 @@ Software – Quartus prime Theory Adders are digital circuits that carry out the
 Half adder is a combinational circuit that performs simple addition of two binary numbers. The input variables designate the augend and addend bits; the output variables produce the sum and carry. It is necessary to specify two output variables because the result may consist of two binary digits.
 
 Sum = A’B+AB’ =A ⊕ B Carry = AB
+
 ![Screenshot 2024-12-08 203106](https://github.com/user-attachments/assets/e4723ddb-ad94-4047-8545-1ef7e5896aac)
 
 
